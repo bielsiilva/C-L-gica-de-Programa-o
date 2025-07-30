@@ -1,0 +1,14 @@
+C:\Users\gsilv\Desktop\gabriel\TesteQuociente\TesteQuociente\bin\Debug\net8.0\TesteQuociente.exe
+C:\Users\gsilv\Desktop\gabriel\TesteQuociente\TesteQuociente\bin\Debug\net8.0\TesteQuociente.deps.json
+C:\Users\gsilv\Desktop\gabriel\TesteQuociente\TesteQuociente\bin\Debug\net8.0\TesteQuociente.runtimeconfig.json
+C:\Users\gsilv\Desktop\gabriel\TesteQuociente\TesteQuociente\bin\Debug\net8.0\TesteQuociente.dll
+C:\Users\gsilv\Desktop\gabriel\TesteQuociente\TesteQuociente\bin\Debug\net8.0\TesteQuociente.pdb
+C:\Users\gsilv\Desktop\gabriel\TesteQuociente\TesteQuociente\obj\Debug\net8.0\TesteQuociente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsilv\Desktop\gabriel\TesteQuociente\TesteQuociente\obj\Debug\net8.0\TesteQuociente.AssemblyInfoInputs.cache
+C:\Users\gsilv\Desktop\gabriel\TesteQuociente\TesteQuociente\obj\Debug\net8.0\TesteQuociente.AssemblyInfo.cs
+C:\Users\gsilv\Desktop\gabriel\TesteQuociente\TesteQuociente\obj\Debug\net8.0\TesteQuociente.csproj.CoreCompileInputs.cache
+C:\Users\gsilv\Desktop\gabriel\TesteQuociente\TesteQuociente\obj\Debug\net8.0\TesteQuociente.dll
+C:\Users\gsilv\Desktop\gabriel\TesteQuociente\TesteQuociente\obj\Debug\net8.0\refint\TesteQuociente.dll
+C:\Users\gsilv\Desktop\gabriel\TesteQuociente\TesteQuociente\obj\Debug\net8.0\TesteQuociente.pdb
+C:\Users\gsilv\Desktop\gabriel\TesteQuociente\TesteQuociente\obj\Debug\net8.0\TesteQuociente.genruntimeconfig.cache
+C:\Users\gsilv\Desktop\gabriel\TesteQuociente\TesteQuociente\obj\Debug\net8.0\ref\TesteQuociente.dll
