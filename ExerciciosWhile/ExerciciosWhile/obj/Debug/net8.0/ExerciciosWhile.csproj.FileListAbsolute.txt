@@ -1,0 +1,14 @@
+C:\Users\gsilv\Desktop\gabriel\ExerciciosWhile\ExerciciosWhile\bin\Debug\net8.0\ExerciciosWhile.exe
+C:\Users\gsilv\Desktop\gabriel\ExerciciosWhile\ExerciciosWhile\bin\Debug\net8.0\ExerciciosWhile.deps.json
+C:\Users\gsilv\Desktop\gabriel\ExerciciosWhile\ExerciciosWhile\bin\Debug\net8.0\ExerciciosWhile.runtimeconfig.json
+C:\Users\gsilv\Desktop\gabriel\ExerciciosWhile\ExerciciosWhile\bin\Debug\net8.0\ExerciciosWhile.dll
+C:\Users\gsilv\Desktop\gabriel\ExerciciosWhile\ExerciciosWhile\bin\Debug\net8.0\ExerciciosWhile.pdb
+C:\Users\gsilv\Desktop\gabriel\ExerciciosWhile\ExerciciosWhile\obj\Debug\net8.0\ExerciciosWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsilv\Desktop\gabriel\ExerciciosWhile\ExerciciosWhile\obj\Debug\net8.0\ExerciciosWhile.AssemblyInfoInputs.cache
+C:\Users\gsilv\Desktop\gabriel\ExerciciosWhile\ExerciciosWhile\obj\Debug\net8.0\ExerciciosWhile.AssemblyInfo.cs
+C:\Users\gsilv\Desktop\gabriel\ExerciciosWhile\ExerciciosWhile\obj\Debug\net8.0\ExerciciosWhile.csproj.CoreCompileInputs.cache
+C:\Users\gsilv\Desktop\gabriel\ExerciciosWhile\ExerciciosWhile\obj\Debug\net8.0\ExerciciosWhile.dll
+C:\Users\gsilv\Desktop\gabriel\ExerciciosWhile\ExerciciosWhile\obj\Debug\net8.0\refint\ExerciciosWhile.dll
+C:\Users\gsilv\Desktop\gabriel\ExerciciosWhile\ExerciciosWhile\obj\Debug\net8.0\ExerciciosWhile.pdb
+C:\Users\gsilv\Desktop\gabriel\ExerciciosWhile\ExerciciosWhile\obj\Debug\net8.0\ExerciciosWhile.genruntimeconfig.cache
+C:\Users\gsilv\Desktop\gabriel\ExerciciosWhile\ExerciciosWhile\obj\Debug\net8.0\ref\ExerciciosWhile.dll
