@@ -1,0 +1,14 @@
+C:\Users\gsilv\Desktop\gabriel\ExerciciosVetores\ExerciciosVetores\bin\Debug\net8.0\ExerciciosVetores.exe
+C:\Users\gsilv\Desktop\gabriel\ExerciciosVetores\ExerciciosVetores\bin\Debug\net8.0\ExerciciosVetores.deps.json
+C:\Users\gsilv\Desktop\gabriel\ExerciciosVetores\ExerciciosVetores\bin\Debug\net8.0\ExerciciosVetores.runtimeconfig.json
+C:\Users\gsilv\Desktop\gabriel\ExerciciosVetores\ExerciciosVetores\bin\Debug\net8.0\ExerciciosVetores.dll
+C:\Users\gsilv\Desktop\gabriel\ExerciciosVetores\ExerciciosVetores\bin\Debug\net8.0\ExerciciosVetores.pdb
+C:\Users\gsilv\Desktop\gabriel\ExerciciosVetores\ExerciciosVetores\obj\Debug\net8.0\ExerciciosVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsilv\Desktop\gabriel\ExerciciosVetores\ExerciciosVetores\obj\Debug\net8.0\ExerciciosVetores.AssemblyInfoInputs.cache
+C:\Users\gsilv\Desktop\gabriel\ExerciciosVetores\ExerciciosVetores\obj\Debug\net8.0\ExerciciosVetores.AssemblyInfo.cs
+C:\Users\gsilv\Desktop\gabriel\ExerciciosVetores\ExerciciosVetores\obj\Debug\net8.0\ExerciciosVetores.csproj.CoreCompileInputs.cache
+C:\Users\gsilv\Desktop\gabriel\ExerciciosVetores\ExerciciosVetores\obj\Debug\net8.0\ExerciciosVetores.dll
+C:\Users\gsilv\Desktop\gabriel\ExerciciosVetores\ExerciciosVetores\obj\Debug\net8.0\refint\ExerciciosVetores.dll
+C:\Users\gsilv\Desktop\gabriel\ExerciciosVetores\ExerciciosVetores\obj\Debug\net8.0\ExerciciosVetores.pdb
+C:\Users\gsilv\Desktop\gabriel\ExerciciosVetores\ExerciciosVetores\obj\Debug\net8.0\ExerciciosVetores.genruntimeconfig.cache
+C:\Users\gsilv\Desktop\gabriel\ExerciciosVetores\ExerciciosVetores\obj\Debug\net8.0\ref\ExerciciosVetores.dll
