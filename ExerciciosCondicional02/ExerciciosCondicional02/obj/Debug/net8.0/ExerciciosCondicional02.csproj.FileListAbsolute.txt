@@ -1,0 +1,14 @@
+C:\Users\gsilv\Desktop\gabriel\ExerciciosCondicional02\ExerciciosCondicional02\bin\Debug\net8.0\ExerciciosCondicional02.exe
+C:\Users\gsilv\Desktop\gabriel\ExerciciosCondicional02\ExerciciosCondicional02\bin\Debug\net8.0\ExerciciosCondicional02.deps.json
+C:\Users\gsilv\Desktop\gabriel\ExerciciosCondicional02\ExerciciosCondicional02\bin\Debug\net8.0\ExerciciosCondicional02.runtimeconfig.json
+C:\Users\gsilv\Desktop\gabriel\ExerciciosCondicional02\ExerciciosCondicional02\bin\Debug\net8.0\ExerciciosCondicional02.dll
+C:\Users\gsilv\Desktop\gabriel\ExerciciosCondicional02\ExerciciosCondicional02\bin\Debug\net8.0\ExerciciosCondicional02.pdb
+C:\Users\gsilv\Desktop\gabriel\ExerciciosCondicional02\ExerciciosCondicional02\obj\Debug\net8.0\ExerciciosCondicional02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsilv\Desktop\gabriel\ExerciciosCondicional02\ExerciciosCondicional02\obj\Debug\net8.0\ExerciciosCondicional02.AssemblyInfoInputs.cache
+C:\Users\gsilv\Desktop\gabriel\ExerciciosCondicional02\ExerciciosCondicional02\obj\Debug\net8.0\ExerciciosCondicional02.AssemblyInfo.cs
+C:\Users\gsilv\Desktop\gabriel\ExerciciosCondicional02\ExerciciosCondicional02\obj\Debug\net8.0\ExerciciosCondicional02.csproj.CoreCompileInputs.cache
+C:\Users\gsilv\Desktop\gabriel\ExerciciosCondicional02\ExerciciosCondicional02\obj\Debug\net8.0\ExerciciosCondicional02.dll
+C:\Users\gsilv\Desktop\gabriel\ExerciciosCondicional02\ExerciciosCondicional02\obj\Debug\net8.0\refint\ExerciciosCondicional02.dll
+C:\Users\gsilv\Desktop\gabriel\ExerciciosCondicional02\ExerciciosCondicional02\obj\Debug\net8.0\ExerciciosCondicional02.pdb
+C:\Users\gsilv\Desktop\gabriel\ExerciciosCondicional02\ExerciciosCondicional02\obj\Debug\net8.0\ExerciciosCondicional02.genruntimeconfig.cache
+C:\Users\gsilv\Desktop\gabriel\ExerciciosCondicional02\ExerciciosCondicional02\obj\Debug\net8.0\ref\ExerciciosCondicional02.dll
