@@ -1,0 +1,14 @@
+C:\Users\gsilv\Desktop\gabriel\EstruturaFor\EstruturaFor\bin\Debug\net8.0\EstruturaFor.exe
+C:\Users\gsilv\Desktop\gabriel\EstruturaFor\EstruturaFor\bin\Debug\net8.0\EstruturaFor.deps.json
+C:\Users\gsilv\Desktop\gabriel\EstruturaFor\EstruturaFor\bin\Debug\net8.0\EstruturaFor.runtimeconfig.json
+C:\Users\gsilv\Desktop\gabriel\EstruturaFor\EstruturaFor\bin\Debug\net8.0\EstruturaFor.dll
+C:\Users\gsilv\Desktop\gabriel\EstruturaFor\EstruturaFor\bin\Debug\net8.0\EstruturaFor.pdb
+C:\Users\gsilv\Desktop\gabriel\EstruturaFor\EstruturaFor\obj\Debug\net8.0\EstruturaFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsilv\Desktop\gabriel\EstruturaFor\EstruturaFor\obj\Debug\net8.0\EstruturaFor.AssemblyInfoInputs.cache
+C:\Users\gsilv\Desktop\gabriel\EstruturaFor\EstruturaFor\obj\Debug\net8.0\EstruturaFor.AssemblyInfo.cs
+C:\Users\gsilv\Desktop\gabriel\EstruturaFor\EstruturaFor\obj\Debug\net8.0\EstruturaFor.csproj.CoreCompileInputs.cache
+C:\Users\gsilv\Desktop\gabriel\EstruturaFor\EstruturaFor\obj\Debug\net8.0\EstruturaFor.dll
+C:\Users\gsilv\Desktop\gabriel\EstruturaFor\EstruturaFor\obj\Debug\net8.0\refint\EstruturaFor.dll
+C:\Users\gsilv\Desktop\gabriel\EstruturaFor\EstruturaFor\obj\Debug\net8.0\EstruturaFor.pdb
+C:\Users\gsilv\Desktop\gabriel\EstruturaFor\EstruturaFor\obj\Debug\net8.0\EstruturaFor.genruntimeconfig.cache
+C:\Users\gsilv\Desktop\gabriel\EstruturaFor\EstruturaFor\obj\Debug\net8.0\ref\EstruturaFor.dll
