@@ -1,0 +1,14 @@
+C:\Users\gsilv\Desktop\gabriel\TesteCasting\TesteCasting\bin\Debug\net8.0\TesteCasting.exe
+C:\Users\gsilv\Desktop\gabriel\TesteCasting\TesteCasting\bin\Debug\net8.0\TesteCasting.deps.json
+C:\Users\gsilv\Desktop\gabriel\TesteCasting\TesteCasting\bin\Debug\net8.0\TesteCasting.runtimeconfig.json
+C:\Users\gsilv\Desktop\gabriel\TesteCasting\TesteCasting\bin\Debug\net8.0\TesteCasting.dll
+C:\Users\gsilv\Desktop\gabriel\TesteCasting\TesteCasting\bin\Debug\net8.0\TesteCasting.pdb
+C:\Users\gsilv\Desktop\gabriel\TesteCasting\TesteCasting\obj\Debug\net8.0\TesteCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsilv\Desktop\gabriel\TesteCasting\TesteCasting\obj\Debug\net8.0\TesteCasting.AssemblyInfoInputs.cache
+C:\Users\gsilv\Desktop\gabriel\TesteCasting\TesteCasting\obj\Debug\net8.0\TesteCasting.AssemblyInfo.cs
+C:\Users\gsilv\Desktop\gabriel\TesteCasting\TesteCasting\obj\Debug\net8.0\TesteCasting.csproj.CoreCompileInputs.cache
+C:\Users\gsilv\Desktop\gabriel\TesteCasting\TesteCasting\obj\Debug\net8.0\TesteCasting.dll
+C:\Users\gsilv\Desktop\gabriel\TesteCasting\TesteCasting\obj\Debug\net8.0\refint\TesteCasting.dll
+C:\Users\gsilv\Desktop\gabriel\TesteCasting\TesteCasting\obj\Debug\net8.0\TesteCasting.pdb
+C:\Users\gsilv\Desktop\gabriel\TesteCasting\TesteCasting\obj\Debug\net8.0\TesteCasting.genruntimeconfig.cache
+C:\Users\gsilv\Desktop\gabriel\TesteCasting\TesteCasting\obj\Debug\net8.0\ref\TesteCasting.dll
