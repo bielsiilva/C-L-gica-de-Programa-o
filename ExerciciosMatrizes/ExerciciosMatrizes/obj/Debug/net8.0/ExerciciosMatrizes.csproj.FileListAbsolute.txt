@@ -1,0 +1,14 @@
+C:\Users\gsilv\Desktop\gabriel\ExerciciosMatrizes\ExerciciosMatrizes\bin\Debug\net8.0\ExerciciosMatrizes.exe
+C:\Users\gsilv\Desktop\gabriel\ExerciciosMatrizes\ExerciciosMatrizes\bin\Debug\net8.0\ExerciciosMatrizes.deps.json
+C:\Users\gsilv\Desktop\gabriel\ExerciciosMatrizes\ExerciciosMatrizes\bin\Debug\net8.0\ExerciciosMatrizes.runtimeconfig.json
+C:\Users\gsilv\Desktop\gabriel\ExerciciosMatrizes\ExerciciosMatrizes\bin\Debug\net8.0\ExerciciosMatrizes.dll
+C:\Users\gsilv\Desktop\gabriel\ExerciciosMatrizes\ExerciciosMatrizes\bin\Debug\net8.0\ExerciciosMatrizes.pdb
+C:\Users\gsilv\Desktop\gabriel\ExerciciosMatrizes\ExerciciosMatrizes\obj\Debug\net8.0\ExerciciosMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsilv\Desktop\gabriel\ExerciciosMatrizes\ExerciciosMatrizes\obj\Debug\net8.0\ExerciciosMatrizes.AssemblyInfoInputs.cache
+C:\Users\gsilv\Desktop\gabriel\ExerciciosMatrizes\ExerciciosMatrizes\obj\Debug\net8.0\ExerciciosMatrizes.AssemblyInfo.cs
+C:\Users\gsilv\Desktop\gabriel\ExerciciosMatrizes\ExerciciosMatrizes\obj\Debug\net8.0\ExerciciosMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\gsilv\Desktop\gabriel\ExerciciosMatrizes\ExerciciosMatrizes\obj\Debug\net8.0\ExerciciosMatrizes.dll
+C:\Users\gsilv\Desktop\gabriel\ExerciciosMatrizes\ExerciciosMatrizes\obj\Debug\net8.0\refint\ExerciciosMatrizes.dll
+C:\Users\gsilv\Desktop\gabriel\ExerciciosMatrizes\ExerciciosMatrizes\obj\Debug\net8.0\ExerciciosMatrizes.pdb
+C:\Users\gsilv\Desktop\gabriel\ExerciciosMatrizes\ExerciciosMatrizes\obj\Debug\net8.0\ExerciciosMatrizes.genruntimeconfig.cache
+C:\Users\gsilv\Desktop\gabriel\ExerciciosMatrizes\ExerciciosMatrizes\obj\Debug\net8.0\ref\ExerciciosMatrizes.dll
